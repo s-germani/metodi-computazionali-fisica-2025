@@ -22,10 +22,15 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 =========================================
 * [L01  - Introduzione](slides/L01_MetodiComputazionali_Intro.pdf)
   * [E01 - Preparazione Ambiente di Lavoro e Basi di Linux](slides/E01_Terminale_Linux.pdf)
+  
 * [L02  - Basi di Python](notebooks/lezioni/L02_BasiPython.ipynb)
   * [E02 - Basi di Python](notebooks/esercitazioni/E02_BasiPython.ipynb)
+  
 * [L03 - Moduli Python in Ambito Scientifico](notebooks/lezioni/L03_NumpyScipyMatplotlib.ipynb)
   * [E03 - Moduli Python in Ambito Scientifico](notebooks/esercitazioni/E03_NumpyScipyMatplotlib.ipynb)
+
+* [L04  - Rappresentazione Numerica ed Errori](notebooks/lezioni/L04_Rappresentazioni_ed_Errori_Numerici.ipynb)
+  * [E04 - Git e GitHub](notebooks/esercitazioni/E04_Github.ipynb)
 
 =========================================
 
