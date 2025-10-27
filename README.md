@@ -32,6 +32,10 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 * [L04  - Rappresentazione Numerica ed Errori](notebooks/lezioni/L04_Rappresentazioni_ed_Errori_Numerici.ipynb)
   * [E04 - Git e GitHub](notebooks/esercitazioni/E04_Github.ipynb)
 
+* [L05  - Funzioni, Moduli e Classi](notebooks/lezioni/L05_Funzioni_Moduli_e_Classi.ipynb)
+  * [E05  - Funzioni, Moduli e Classi](notebooks/esercitazioni/E05_Funzioni_Moduli_e_Classi.ipynb)
+
+
 =========================================
 
 
