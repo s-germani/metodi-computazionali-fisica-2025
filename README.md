@@ -35,6 +35,7 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 * [L05  - Funzioni, Moduli e Classi](notebooks/lezioni/L05_Funzioni_Moduli_e_Classi.ipynb)
   * [E05  - Funzioni, Moduli e Classi](notebooks/esercitazioni/E05_Funzioni_Moduli_e_Classi.ipynb)
 
+* [l06 - Integrazione e Derivazione](notebooks/lezioni/L06_Integrazione_e_Derivazione.ipynb)
 
 =========================================
 
