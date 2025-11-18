@@ -45,6 +45,9 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   * [E07 - Equazioni e Minimizzazione](notebooks/esercitazioni/E07_Equazioni_Minimizzazione.ipynb)
 
 
+* [L08  - Equazioni Differenziali](notebooks/lezioni/L08_EquazioniDifferenziali.ipynb)
+
+
 =========================================
 
 
