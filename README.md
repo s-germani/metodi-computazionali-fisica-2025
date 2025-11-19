@@ -46,7 +46,7 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 
 
 * [L08  - Equazioni Differenziali](notebooks/lezioni/L08_EquazioniDifferenziali.ipynb)
- * [E08 - Equazioni Differenziali](notebooks/esercitazioni/E08_EquazioniDifferenziali.ipynb)
+   * [E08 - Equazioni Differenziali](notebooks/esercitazioni/E08_EquazioniDifferenziali.ipynb)
  
 
 =========================================
