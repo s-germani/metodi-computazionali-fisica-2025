@@ -40,13 +40,14 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   * [E06 - Integrazione e Derivazione](notebooks/esercitazioni/E06_Integrazione_e_Derivazione.ipynb)
  
 
-* [L07  - Equazioni e Minimizzazione](notebooks/lezioni/L07_Equazioni_Minimizzazione.ipynb)
+* L07  - Equazioni e Minimizzazione [slides](slides/L07_Equazioni_e_Minimizzazione.pdf) [notebook](notebooks/lezioni/L07_Equazioni_Minimizzazione.ipynb)
   * [L07a - argparse](notebooks/lezioni/L07a_argparse.ipynb)
   * [E07 - Equazioni e Minimizzazione](notebooks/esercitazioni/E07_Equazioni_Minimizzazione.ipynb)
 
 
 * [L08  - Equazioni Differenziali](notebooks/lezioni/L08_EquazioniDifferenziali.ipynb)
-
+ * [E08 - Equazioni Differenziali](notebooks/esercitazioni/E08_EquazioniDifferenziali.ipynb)
+ 
 
 =========================================
 
