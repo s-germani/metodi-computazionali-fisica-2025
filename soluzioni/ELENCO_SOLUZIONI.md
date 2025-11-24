@@ -25,3 +25,9 @@
 
 * Cartella [E07](E07) ( Esercitazione  - Equazioni Minimizzazione ): 
   * `jpsimass_fit.py` : script python per il fit della massa invariante della J/psi
+
+* Cartella [E08](E08) ( Esercitazione  - Equazioni Differenziali ): 
+  * `oscillatore_forzato.py`  : script python per la soluzione dell'equazione differenziale dell'oscillatore forzato
+  * `pendulum.py`             : script python per la soluzione dell'equazione differenziale del pendolo
+  * `oscillatore2D.py`        : script python per la soluzione dell'equazione differenziale dell'oscillatore armonico 2D
+
