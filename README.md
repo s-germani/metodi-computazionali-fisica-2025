@@ -47,7 +47,10 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 
 * [L08  - Equazioni Differenziali](notebooks/lezioni/L08_EquazioniDifferenziali.ipynb)
    * [E08 - Equazioni Differenziali](notebooks/esercitazioni/E08_EquazioniDifferenziali.ipynb)
- 
+
+
+* [L09  - Trasformate di Fourier](notebooks/lezioni/L09_TrasformateFourier.ipynb)
+  * [E09 - Trasformate di Fourier](notebooks/esercitazioni/E09_TrasformateFourier.ipynb)
 
 =========================================
 
