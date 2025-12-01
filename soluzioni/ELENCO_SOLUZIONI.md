@@ -31,3 +31,7 @@
   * `pendulum.py`             : script python per la soluzione dell'equazione differenziale del pendolo
   * `oscillatore2D.py`        : script python per la soluzione dell'equazione differenziale dell'oscillatore armonico 2D
 
+* Cartella   [E09](E09) ( Esercitazione  - Trasformate di Fourier ):
+  * `noise_fft.py`       :  script python per l'analisi di Fourier dei vari tipi di rumore
+  * `lightcurves_fft.py` :  script python per l'analisi di Fourier delle curve di luce gamma dei blazar
+
