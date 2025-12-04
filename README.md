@@ -53,6 +53,10 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   *[L09a - Copie in Python](notebooks/lezioni/L03a_PythonCopy.ipynb)
   * [E09 - Trasformate di Fourier](notebooks/esercitazioni/E09_TrasformateFourier.ipynb)
 
+
+* [L10 - Metodi Monte Carlo](notebooks/lezioni/L10_MonteCarlo.ipynb)
+
+
 =========================================
 
 
