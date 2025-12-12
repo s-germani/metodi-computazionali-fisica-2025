@@ -55,6 +55,8 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 
 
 * [L10 - Metodi Monte Carlo](notebooks/lezioni/L10_MonteCarlo.ipynb)
+  * [E10 - Metodi Monte Carlo](notebooks/esercitazioni/E10_MonteCarlo.ipynb)
+
 
 
 =========================================
