@@ -58,6 +58,8 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
   * [E10 - Metodi Monte Carlo](notebooks/esercitazioni/E10_MonteCarlo.ipynb)
 
 
+* [L11  - Integrazione C-Python / Compilazione Just in Time](notebooks/lezioni/L11_C-Python-Jit.ipynb)
+  * [L11a - Note Conclusive - Descrizione Esame](notebooks/lezioni/L11a_DescrizioneEsame.ipynb)
 
 =========================================
 
