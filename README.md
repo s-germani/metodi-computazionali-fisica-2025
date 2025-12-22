@@ -60,6 +60,7 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 
 * [L11  - Integrazione C-Python / Compilazione Just in Time](notebooks/lezioni/L11_C-Python-Jit.ipynb)
   * [L11a - Note Conclusive - Descrizione Esame](notebooks/lezioni/L11a_DescrizioneEsame.ipynb)
+  * [E11 - Integrazione C-Python / Compilazione Just in Time](notebooks/esercitazioni/E11_C-Python.ipynb)
 
 =========================================
 
