@@ -50,7 +50,7 @@ Versione online delle Lezioni (Lxx)  e delle Esercitazioni in Laboratorio (Exx)
 
 
 * [L09  - Trasformate di Fourier](notebooks/lezioni/L09_TrasformateFourier.ipynb)
-  *[L09a - Copie in Python](notebooks/lezioni/L03a_PythonCopy.ipynb)
+  * [L09a - Copie in Python](notebooks/lezioni/L03a_PythonCopy.ipynb)
   * [E09 - Trasformate di Fourier](notebooks/esercitazioni/E09_TrasformateFourier.ipynb)
 
 
